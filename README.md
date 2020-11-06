@@ -11,7 +11,7 @@ My current meta-project is called "VOLNA13" and contains:
 - [📸 VOLNA13 Instagram](https://www.instagram.com/13.volna/)
 - [🎥 VOLNA13 YouTube](https://www.youtube.com/channel/UCaskkDSURoAac0i1hxSEJ-g)
 - [🌐 volna13.ru](https://volna13.ru/)
-also I have pages at boosty/ko-fi/patreon/vk
+- also I have pages at boosty/ko-fi/patreon/vk
 
 ### Personal pages:
 - [Twitter](https://twitter.com/alexeylvov)
