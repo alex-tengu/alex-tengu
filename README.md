@@ -6,12 +6,12 @@ My current meta-project is called "VOLNA13" and contains:
 - streaming and video creation (devlogs)
 
 ### VOLNA13 links:
-- [🎮 VOLNA13 Itch.io](https://itch.io/volna13)
+- [🎮 VOLNA13 Itch.io](https://volna13.itch.io/)
 - [🐦 VOLNA13 Twitter](https://twitter.com/volna_13)
 - [📸 VOLNA13 Instagram](https://www.instagram.com/13.volna/)
 - [🎥 VOLNA13 YouTube](https://www.youtube.com/channel/UCaskkDSURoAac0i1hxSEJ-g)
 - [🌐 volna13.ru](https://volna13.ru/)
-+ boosty/ko-fi/patreon/vk
+also I have pages at boosty/ko-fi/patreon/vk
 
 ### Personal pages:
 - [Twitter](https://twitter.com/alexeylvov)
