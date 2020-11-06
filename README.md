@@ -7,10 +7,15 @@ My current meta-project is called "VOLNA13" and contains:
 
 ### VOLNA13 links:
 [🎮 Itch.io page](https://itch.io/volna13)
+
 [🐦 VOLNA13 Twitter](https://twitter.com/volna_13)
+
 [📸 VOLNA13 Instagram](https://www.instagram.com/13.volna/)
+
 [🎥 VOLNA13 YouTube](https://www.youtube.com/channel/UCaskkDSURoAac0i1hxSEJ-g)
+
 [🌐 volna13.ru](https://volna13.ru/)
+
 + boosty/ko-fi/patreon/vk
 
 ### Personal pages:
