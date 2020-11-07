@@ -1,6 +1,5 @@
-### Alexey Lvov, indie game developer.
-#### Indie Game Developer
-#### Digital Producer
+### Alexey Lvov (Alex Tengu).
+#### Indie Game Developer. Digital Producer.
 
 My current meta-project is called "VOLNA13" and contains:
 - game development
