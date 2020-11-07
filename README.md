@@ -5,7 +5,7 @@ My current meta-project is called "VOLNA13" and contains:
 - publishing (articles and translations)
 - streaming and video creation (devlogs)
 
-### VOLNA13 links:
+### VOLNA13:
 - [🎮 VOLNA13 Itch.io](https://volna13.itch.io/)
 - [🐦 VOLNA13 Twitter](https://twitter.com/volna_13)
 - [📸 VOLNA13 Instagram](https://www.instagram.com/13.volna/)
