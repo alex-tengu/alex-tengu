@@ -17,7 +17,6 @@ My current meta-project is called "VOLNA13" and contains:
 ### Personal pages:
 - [Twitter](https://twitter.com/alexeylvov)
 - [Instagram](https://instagram.com/ag.lvov)
-- [Website [RU]](https://alvov.hz13.net)
 - [Twitch](https://twitch.tv/alex_tengu)
 
 <!--
