@@ -6,7 +6,7 @@ My current meta-project is called "HZ13" and contains:
 - publishing (articles and translations)
 - streaming and video creation (devlogs)
 
-### VOLNA13:
+### HZ13:
 - [🎮 HZ13 Itch.io](https://hz13.itch.io/)
 - [🐦 HZ13 Twitter](https://twitter.com/hz13net)
 - [📸 HZ13 Instagram](https://www.instagram.com/hz13net/)
