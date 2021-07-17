@@ -1,17 +1,16 @@
 ### Alexey Lvov (Alex Tengu).
 #### Indie Game Developer. Digital Producer.
 
-My current meta-project is called "VOLNA13" and contains:
+My current meta-project is called "HZ13" and contains:
 - game development
 - publishing (articles and translations)
 - streaming and video creation (devlogs)
 
 ### VOLNA13:
-- [🎮 VOLNA13 Itch.io](https://volna13.itch.io/)
-- [🐦 VOLNA13 Twitter](https://twitter.com/volna_13)
-- [📸 VOLNA13 Instagram](https://www.instagram.com/13.volna/)
-- [🎥 VOLNA13 YouTube](https://www.youtube.com/channel/UCaskkDSURoAac0i1hxSEJ-g)
-- [🌐 volna13.ru](https://volna13.ru/)
+- [🎮 HZ13 Itch.io](https://hz13.itch.io/)
+- [🐦 HZ13 Twitter](https://twitter.com/hz13net)
+- [📸 HZ13 Instagram](https://www.instagram.com/hz13net/)
+- [🌐 hz13.net](https://hz13.net/)
 - also I have pages at boosty/ko-fi/patreon/vk
 
 ### Personal pages:
