@@ -14,7 +14,7 @@ My current meta-project is called "HZ13" and contains:
 - also I have pages at boosty/ko-fi/patreon/vk
 
 ### Personal pages:
-- [Twitter](https://twitter.com/alexeylvov)
+- [Twitter](https://twitter.com/tengualex)
 - [Instagram](https://instagram.com/ag.lvov)
 - [Twitch](https://twitch.tv/alex_tengu)
 
