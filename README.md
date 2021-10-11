@@ -1,9 +1,11 @@
 ### Alexey Lvov (Alex Tengu).
 #### Indie Game Developer. Digital Producer.
 
+[Knowledge Base](https://alex-tengu.github.io/knowledge-base/)
+
 My current meta-project is called "HZ13" and contains:
 - game development
-- publishing (articles and translations)
+- content creation (3D, articles)
 - streaming and video creation (devlogs)
 
 ### HZ13:
