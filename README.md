@@ -1,4 +1,4 @@
-### Alexey Lvov (Alex Tengu).
+### Alex Tengu
 #### Indie Game Developer. Digital Producer.
 
 [Knowledge Base](https://alex-tengu.github.io/knowledge-base/)
