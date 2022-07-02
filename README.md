@@ -5,20 +5,14 @@
 
 My current meta-project is called "HZ13" and contains:
 - game development
-- content creation (3D, articles)
+- content creation (3D, articles, some gameplay videos)
 - streaming and video creation (devlogs)
 
-### HZ13:
-- [🎮 HZ13 Itch.io](https://hz13.itch.io/)
-- [🐦 HZ13 Twitter](https://twitter.com/hz13net)
-- [📸 HZ13 Instagram](https://www.instagram.com/hz13net/)
-- [🌐 hz13.net](https://hz13.net/)
-- also I have pages at boosty/ko-fi/patreon/vk
-
-### Personal pages:
-- [Twitter](https://twitter.com/tengualex)
-- [Instagram](https://instagram.com/ag.lvov)
-- [Twitch](https://twitch.tv/alex_tengu)
+### links:
+- [🎮 Itch.io](https://alextengu.itch.io/)
+- [📰 Mastodon](https://mastodon.gamedev.place/@alextengu)
+- [📷 Pixelfed](https://pixelfed.social/alextengu)
+- [🎥 Twitch](https://twitch.tv/alex_tengu)
 
 <!--
 **alex-tengu/alex-tengu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
