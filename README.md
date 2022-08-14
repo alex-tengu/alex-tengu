@@ -1,7 +1,5 @@
 ### Alex Tengu
-#### Indie Game Developer. Digital Producer.
-
-[Knowledge Base](https://alex-tengu.github.io/knowledge-base/)
+#### Indie Game Developer.
 
 My current meta-project is called "HZ13" and contains:
 - game development
@@ -9,10 +7,7 @@ My current meta-project is called "HZ13" and contains:
 - streaming and video creation (devlogs)
 
 ### links:
-- [🎮 Itch.io](https://alextengu.itch.io/)
-- [📰 Mastodon](https://mastodon.gamedev.place/@alextengu)
-- [📷 Pixelfed](https://pixelfed.social/alextengu)
-- [🎥 Twitch](https://twitch.tv/alex_tengu)
+- [Carrd](https://alextengu.carrd.co/)
 
 <!--
 **alex-tengu/alex-tengu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
