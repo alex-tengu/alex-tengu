@@ -1,7 +1,6 @@
 ### Alex Tengu
 #### Indie Game Developer.
 
-My current meta-project is called "HZ13" and contains:
 - game development
 - content creation (3D, articles, some gameplay videos)
 - streaming and video creation (devlogs)
