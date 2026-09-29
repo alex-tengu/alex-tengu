@@ -6,7 +6,7 @@
 - streaming and video creation (devlogs)
 
 ### links:
-- [Carrd](https://alextengu.carrd.co/)
+- currently no links
 
 <!--
 **alex-tengu/alex-tengu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
